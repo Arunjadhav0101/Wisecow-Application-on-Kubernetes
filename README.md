@@ -281,7 +281,7 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: jeevan123/wisecow:v1
+        image: arunjadhav16/wisecow:v1
         ports:
         - containerPort: 4499
 ```
